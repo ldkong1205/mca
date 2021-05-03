@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="image/mca.png" alt="logo" width="320" height="84">
+  <img src="image/mca.png" alt="logo" width="360" height="95">
 
   <p align="center">
   <strong>Mutual-Collision-Avoidance Scheme Synthesized by Neural Networks for Dual Redundant Robot Manipulators Executing Cooperative Tasks</strong>
