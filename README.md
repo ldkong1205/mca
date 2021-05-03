@@ -22,6 +22,8 @@
 ## About
 This repository contains the MATLAB implementation of <a href="https://ieeexplore.ieee.org/abstract/document/9072323/">Mutual-Collision-Avoidance Scheme Synthesized by Neural Networks for Dual Redundant Robot Manipulators Executing Cooperative Tasks</a> (MCA).
 
+MCA is proposed to solve the motion planning problem, in particular, the mutual collision avoidance between dual robot manipulators.
+
 <img src="https://github.com/ldkong1205/mca/blob/main/image/illustration.png">
 
 If you find this work helpful, please kindly consider citing our paper in your publications.
